@@ -1,0 +1,82 @@
+{
+  "create": {
+    "title": "Night of the Living Dead",
+    "overview": "Um grupo de pessoas se refugia em uma casa enquanto mortos-vivos começam a atacar sem explicação aparente.",
+    "company": "Netflix",
+    "release_year": 1970,
+    "featured": false,
+    "cover": "images/night_of_the_living_dead.png"
+  },
+  "dawn_of_the_dead": {
+    "title": "Dawn of the Dead",
+    "overview": "Sobreviventes se escondem em um shopping enquanto o mundo é dominado por zumbis.",
+    "company": "United Film Distribution Company",
+    "release_year": 1978,
+    "featured": false,
+    "cover": "images/dawn_of_the_dead.png"
+  },
+  "twenty_eight_days_later": {
+    "title": "28 Days Later",
+    "overview": "Um homem acorda de um coma para encontrar Londres devastada por um vírus que transforma pessoas em criaturas violentas.",
+    "company": "Fox Searchlight Pictures",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "images/28_days_later.png"
+  },
+  "resident_evil": {
+    "title": "Resident Evil",
+    "overview": "Uma equipe tenta conter um vírus mortal liberado em um laboratório subterrâneo que transforma humanos em zumbis.",
+    "company": "Screen Gems",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "images/resident_evil.png"
+  },
+  "shaun_of_the_dead": {
+    "title": "Shaun of the Dead",
+    "overview": "Um homem comum tenta salvar seus amigos e família durante um apocalipse zumbi com muito humor.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "images/shaun_of_the_dead.png"
+  },
+  "world_war_z": {
+    "title": "World War Z",
+    "overview": "Um ex-investigador da ONU viaja pelo mundo tentando encontrar a origem de uma pandemia zumbi global.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": false,
+    "cover": "images/world_war_z.png"
+  },
+  "train_to_busan": {
+    "title": "Train to Busan",
+    "overview": "Passageiros em um trem de alta velocidade lutam para sobreviver a um surto repentino de zumbis na Coreia do Sul.",
+    "company": "Next Entertainment World",
+    "release_year": 2016,
+    "featured": false,
+    "cover": "images/train_to_busan.png"
+  },
+  "zombieland": {
+    "title": "Zombieland",
+    "overview": "Um grupo improvável atravessa os Estados Unidos tentando sobreviver a um mundo dominado por zumbis.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "featured": false,
+    "cover": "images/zombieland.png"
+  },
+  "i_am_legend": {
+    "title": "I Am Legend",
+    "overview": "Um cientista vive isolado em Nova York tentando encontrar uma cura para um vírus que transformou humanos em criaturas hostis.",
+    "company": "Warner Bros.",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "images/i_am_legend.png"
+  },
+  "the_girl_with_all_the_gifts": {
+    "title": "The Girl with All the Gifts",
+    "overview": "Uma garota especial pode ser a chave para a sobrevivência da humanidade após uma infecção fúngica devastadora.",
+    "company": "Warner Bros.",
+    "release_year": 2016,
+    "featured": false,
+    "cover": "images/the_girl_with_all_the_gifts.png"
+  }
+}
